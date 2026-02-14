@@ -59,7 +59,7 @@ This template provides a baseline checklist for onboarding any new team member t
 
 ---
 
-## Week 3-4: Increased Responsibility
+## Weeks 3-4: Increased Responsibility
 
 - [ ] Take ownership of assigned work items
 - [ ] Contribute to team discussions and decision-making
