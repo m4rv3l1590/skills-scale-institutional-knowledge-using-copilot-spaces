@@ -18,7 +18,7 @@ OctoAcme implementa un ciclo de vida estructurado en cinco fases principales: in
 
 ### Roles y Responsabilidades
 
-La estructura de OctoAcme se sustenta en roles claramente definidos: Project Managers coordinan actividades y riesgos, Product Managers definen qué construir, Developers implementan características, QA/Testing valida calidad, y Stakeholders proporcionan entradas. Esta claridad de roles reduce ambigüedad y mejora la responsabilidad.
+La estructura de OctoAcme se sustenta en roles claramente definidos: Project Managers coordinan actividades y riesgos, Product Managers definen qué construir, Developers implementan características, QA/Testing valida calidad, y Stakeholders proporcionan entradas. Además, se han definido roles especializados adicionales para garantizar la excelencia en áreas clave: UX/UI Designer para experiencias de usuario, DevOps/Release Engineer para automatización y confiabilidad, Documentation Specialist para captura de conocimiento, Support/Customer Success para éxito del cliente, y Security Lead para seguridad y cumplimiento. Esta claridad de roles reduce ambigüedad y mejora la responsabilidad en todas las dimensiones del proyecto.
 
 ### Estrategias de Comunicación y Gestión de Riesgos
 
@@ -41,7 +41,8 @@ La garantía de calidad es multi-capa: pruebas unitarias, pruebas de integració
 | [Gestión de Riesgos y Comunicación](./octoacme-risks-and-communication.md) | Explica cómo mantener un registro de riesgos, gestionar el ciclo de vida del riesgo y comunicar el estado a stakeholders usando plantillas para actualizaciones semanales y respuestas a incidentes. |
 | [Guía de Lanzamiento y Despliegue](./octoacme-release-and-deployment.md) | Estandariza la gestión de lanzamientos con requisitos pre-lanzamiento, listas de verificación de despliegue, tipos de lanzamiento (Patch/Minor/Major) y playbooks de rollback/incidentes. |
 | [Retrospectiva y Mejora Continua](./octoacme-retrospective-and-continuous-improvement.md) | Guía para ejecutar retrospectivas después de sprints/lanzamientos para capturar aprendizajes, convertir feedback en elementos de acción rastreados y fomentar una cultura de mejora continua. |
-| [Roles y Personas](./octoacme-roles-and-personas.md) | Define cuatro personas clave (Developers, Product Managers, Project Managers) con sus responsabilidades, objetivos y patrones de comunicación típicos utilizados en los ejercicios de OctoAcme. |
+| [Roles y Personas](./octoacme-roles-and-personas.md) | Define personas clave (Developers, Product Managers, Project Managers, UX/UI Designer, DevOps/Release Engineer, Documentation Specialist, Support/Customer Success, Security Lead) con sus responsabilidades, objetivos, patrones de comunicación e interacciones. Incluye listas de verificación de onboarding específicas por rol. |
+| [Plantilla de Lista de Verificación de Onboarding](./onboarding-checklist-template.md) | Plantilla genérica y personalizable para incorporar nuevos miembros del equipo a proyectos de OctoAcme, con actividades estructuradas por semana y verificaciones periódicas a 30, 60 y 90 días. |
 
 ---
 
@@ -53,7 +54,8 @@ Si eres nuevo en OctoAcme, te recomendamos seguir este orden de lectura:
 
 1. **Comienza con la [Visión General de Gestión de Proyectos](./octoacme-project-management-overview.md)** para entender el enfoque general y la filosofía de trabajo.
 2. **Lee [Roles y Personas](./octoacme-roles-and-personas.md)** para entender tu rol y cómo interactúas con otros miembros del equipo.
-3. **Revisa los documentos específicos** del ciclo de vida según la fase actual de tu proyecto.
+3. **Usa la [Plantilla de Lista de Verificación de Onboarding](./onboarding-checklist-template.md)** como guía para tu incorporación al proyecto.
+4. **Revisa los documentos específicos** del ciclo de vida según la fase actual de tu proyecto.
 
 ### Para Iniciar un Nuevo Proyecto
 
@@ -76,6 +78,7 @@ Usa esta guía rápida según tu necesidad:
 - **¿Cómo ejecuto una retrospectiva?** → [Retrospectiva y Mejora Continua](./octoacme-retrospective-and-continuous-improvement.md)
 - **¿Cuál es mi responsabilidad en el proyecto?** → [Roles y Personas](./octoacme-roles-and-personas.md)
 - **¿Cómo manejo el día a día del proyecto?** → [Ejecución y Seguimiento](./octoacme-execution-and-tracking.md)
+- **¿Cómo incorporo un nuevo miembro al equipo?** → [Plantilla de Lista de Verificación de Onboarding](./onboarding-checklist-template.md)
 
 ### Para Mejoras y Feedback
 
